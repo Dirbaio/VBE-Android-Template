@@ -5,3 +5,4 @@ libs/
 obj/
 jni/SDL
 jni/VBE
+local.properties
